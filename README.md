@@ -1,4 +1,4 @@
-# Building RESTfull service in Java using Jersey JAR files :
+Building RESTfull service in Java using Jersey JAR files.
 
 # Jersey JAR files download link : https://eclipse-ee4j.github.io/jersey.
 
