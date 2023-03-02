@@ -12,6 +12,5 @@ Building RESTfull service in Java using Jersey JAR files.
 
   http status code 404 - not found, msg : The requested resource [/rest_project/rest/welcome/name] is not available :
 
-	change the url pattern in <servlet-mapping> in web.xml file and run the project again. 
+	change the url pattern in <servlet-mapping> in web.xml file and run the project again. like, if once  /rest  is used, use  /rest1  next time.
 	It can happen if the url pattern /rest is already used in previous project.
-	like, if once  /rest  is used, use  /rest1  next time -> /rest1/welcome/name  in the url bar.
