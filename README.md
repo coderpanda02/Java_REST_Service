@@ -5,8 +5,7 @@ Building RESTfull service in Java using Jersey JAR files.
 
 # Steps to download Jersey JARs : 
 	visit the link  above -> go to download section -> click on how to download 
-	-> check version (I have used 2.39 here) -> click on Jersey JAX-RS 2.1 RI bundle (for version 2.39)
-	to download the jar files.
+	-> check version (I have used 2.39 here) -> click on Jersey JAX-RS 2.1 RI bundle (for version 2.39) to download the jar files.
 
 
 # While running the project if error occurs like -
