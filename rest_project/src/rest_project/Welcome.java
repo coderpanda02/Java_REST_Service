@@ -42,8 +42,7 @@ public class Welcome {
 	
 //	@GET
 //	@Produces(MediaType.TEXT_HTML)
-//	public String welcomeHtml(@QueryParam("fname") String fname, 
-//								@QueryParam("lname") String lname) {
+//	public String welcomeHtml(@QueryParam("fname") String fname, @QueryParam("lname") String lname) {
 //		
 //		return "<html><head><title>Welcome from HTML</title></head>"+
 //				"<body style='color:orange'><h1>Welcome "+fname+" "+lname+
